@@ -1,4 +1,4 @@
-ruby-libstorj
+ruby-libczarcoin
 ===
 [![Storj.io](https://storj.io/img/storj-badge.svg)](https://storj.io)
 [![Gem Version](https://badge.fury.io/rb/ruby-libstorj.svg)](https://badge.fury.io/rb/ruby-libstorj)
