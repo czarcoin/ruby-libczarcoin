@@ -21,7 +21,7 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency     'ffi', '~> 1.9'
   gem.add_runtime_dependency     'libuv', '~> 3.2'
-  gem.add_runtime_dependency     'rake', '~> 12.0'
+  gem.add_runtime_dependency     'rake', '>= 12', '< 14'
 
   gem.add_development_dependency 'rake-compiler', '~> 1.0'
 
